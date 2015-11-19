@@ -2,6 +2,7 @@ name: JohnWSamples
 favicon: null
 layout_spectrum: 0.88569
 typography_spectrum: 0.69881
+title: Author/Speaker
 cta:
   domain: null
   bucket: null
